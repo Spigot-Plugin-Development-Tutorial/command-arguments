@@ -1,0 +1,9 @@
+name: CommandArguments
+version: '${project.version}'
+main: me.kodysimpson.commandarguments.CommandArguments
+api-version: 1.18
+commands:
+  repeat:
+    description: Repeat stuff back to you
+  fart:
+    description: Fart on a fool
